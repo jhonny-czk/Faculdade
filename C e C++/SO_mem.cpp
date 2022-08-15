@@ -1,5 +1,6 @@
 // Sistemas Operacionais
 //Algoritmo de alocação de memória FirstFit e Bestfit
+// O.S: FirstFit and Bestfit memory allocation algorithm
 #include<iostream>
 #include<cstring>
 #include<string>
@@ -85,7 +86,6 @@ void bestFit(int tamBloco[], int m, int tamProcesso[], int n)
         cout << endl;
     }
 }
-
 
 int main()
 {
