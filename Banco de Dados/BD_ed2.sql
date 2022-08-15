@@ -1,7 +1,7 @@
 /*--------------------------------------------------------------------------------*/
 /*                Fundamentos de Banco de Dados: Estudo Dirigido 02               */
 /*                      Lista de exercícios SQL (MariaDB)                         */
-/* Database Fundamentals. List of SQL exercises (MariaDB) for college assignments.*/
+/* Database Fundamentals. List of SQL exercises (MariaDB) for college assignment. */
 /*--------------------------------------------------------------------------------*/
 /*  Considere o BD de empregados mostrado a seguir:
 
