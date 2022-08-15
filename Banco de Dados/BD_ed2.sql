@@ -1,7 +1,8 @@
-/*-------------------------------------------------------------*/
-/* Fundamentos de Banco de Dados: Estudo Dirigido 02*/
-/*Lista de exercícios SQL (MariaDB)	*/
-/*-------------------------------------------------------------*/
+/*--------------------------------------------------------------------------------*/
+/*                Fundamentos de Banco de Dados: Estudo Dirigido 02               */
+/*                      Lista de exercícios SQL (MariaDB)                         */
+/* Database Fundamentals. List of SQL exercises (MariaDB) for college assignments.*/
+/*--------------------------------------------------------------------------------*/
 /*  Considere o BD de empregados mostrado a seguir:
 
 Empregado(codEmp, nome, cidade, rua) 
@@ -537,4 +538,3 @@ SELECT modelo, dtRevisao FROM tipoveiculo, revisao GROUP BY modelo;
 SELECT dtRevisao FROM revisao 
 JOIN tipoveiculo ON revisao.codigo = tipoveiculo.codRevisao 
 AND tipoveiculo.nTipoVeiculo = 'SUV';
-/*-------------------------------------------------------------*/
