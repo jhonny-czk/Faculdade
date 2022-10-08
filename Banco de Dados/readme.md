@@ -1,1 +1,3 @@
-Fundamentos de Banco de Dados
+Fundamentos de Banco de Dados   
+
+Database Fundamentals
