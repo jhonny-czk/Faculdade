@@ -2,4 +2,4 @@ Fundamentos de Banco de Dados
 
 Database Fundamentals
 
-![SQL](./img/mariadb.svg)
+![SQL](../../Portfolio/curriculo/img/mariadb.svg)
